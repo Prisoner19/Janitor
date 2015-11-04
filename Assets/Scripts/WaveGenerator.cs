@@ -9,14 +9,12 @@ public class WaveGenerator : MonoBehaviour
 	private List<GameObject> dudesList;
 	private bool ready;
 
-	// Use this for initialization
 	void Start () 
 	{
 		ready = true;
 		dudesList = new List<GameObject>();
 	}
-	
-	// Update is called once per frame
+
 	void Update () 
 	{
 		if(ready == true)

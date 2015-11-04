@@ -19,12 +19,12 @@ public static class InputTracker
 
 	public static bool Is_Clicking(Mouse_Button button)
 	{
-		return Input.GetMouseButtonDown((int)button);
+		return Input.GetMouseButton((int)button);
 	}
 
 	public static bool Has_Released_Click(Mouse_Button button)
 	{
-		return Input.GetMouseButtonDown((int)button);
+		return Input.GetMouseButtonUp((int)button);
 	}
 	
 	#endregion
