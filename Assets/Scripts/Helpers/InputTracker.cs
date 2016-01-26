@@ -31,7 +31,7 @@ public static class InputTracker
 
 	#region Object detection
 
-	public static GameObject Get_Clicked_Object(string layerName = "")
+	public static GameObject Get_Object_Under_Mouse(string layerName = "")
 	{
 		Vector3 wp = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 		Vector2 posicion = new Vector2(wp.x, wp.y);
