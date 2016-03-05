@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: 028831d52c40e9f4cb0d23bb0c54ded2
+timeCreated: 1456531939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Objects_0
+    21300002: Objects_1
+    21300004: Objects_2
+    21300006: Objects_3
+    21300008: Objects_4
+    21300010: Objects_5
+    21300012: Objects_6
+    21300014: Objects_7
+    21300016: Objects_8
+    21300018: Objects_9
+    21300020: Objects_10
+    21300022: Objects_11
+    21300024: Objects_12
+    21300026: Objects_13
+    21300028: Objects_14
+    21300030: Objects_15
+    21300032: Objects_16
+    21300034: Objects_17
+    21300036: Objects_18
+    21300038: Objects_19
+    21300040: Objects_20
+    21300042: Objects_21
+    21300044: Objects_22
+    21300046: Objects_23
+    21300048: Objects_24
+    21300050: Objects_25
+    21300052: Objects_26
+    21300054: Objects_27
+    21300056: Objects_28
+    21300058: Objects_29
+    21300060: Objects_30
+    21300062: Objects_31
+    21300064: Objects_32
+    21300066: Objects_33
+    21300068: Objects_34
+    21300070: Objects_35
+    21300072: Objects_36
+    21300074: Objects_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 51}
+        - {x: -9, y: 49}
+        - {x: -14, y: 29}
+        - {x: -14, y: 1}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 51}
+    - name: Objects_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 51}
+        - {x: -9, y: 49}
+        - {x: -12, y: 41}
+        - {x: -12, y: 5}
+        - {x: -11, y: 0}
+        - {x: 4, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 36}
+        - {x: 7, y: 51}
+    - name: Objects_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 50}
+        - {x: -5, y: 50}
+        - {x: -9, y: 48}
+        - {x: -15, y: 33}
+        - {x: -15, y: 11}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 13, y: 2}
+        - {x: 14, y: 10}
+        - {x: 14, y: 27}
+        - {x: 11, y: 36}
+    - name: Objects_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 50}
+        - {x: -9, y: 48}
+        - {x: -14, y: 28}
+        - {x: -14, y: 10}
+        - {x: -8, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 39}
+        - {x: 7, y: 50}
+    - name: Objects_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 51}
+        - {x: -9, y: 49}
+        - {x: -12, y: 42}
+        - {x: -12, y: 3}
+        - {x: -11, y: 0}
+        - {x: 3, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 50}
+        - {x: 8, y: 51}
+    - name: Objects_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 51}
+        - {x: -9, y: 49}
+        - {x: -14, y: 19}
+        - {x: -14, y: 3}
+        - {x: -13, y: 0}
+        - {x: -2, y: 0}
+        - {x: 8, y: 10}
+        - {x: 8, y: 50}
+        - {x: 3, y: 51}
+    - name: Objects_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 50}
+        - {x: -5, y: 50}
+        - {x: -7, y: 46}
+        - {x: -8, y: 33}
+        - {x: -14, y: 14}
+        - {x: -14, y: 5}
+        - {x: -11, y: 0}
+        - {x: -4, y: 0}
+        - {x: -2, y: 2}
+        - {x: -2, y: 5}
+        - {x: -2, y: 3}
+        - {x: 0, y: 0}
+        - {x: 9, y: 0}
+        - {x: 13, y: 3}
+        - {x: 13, y: 12}
+        - {x: 10, y: 48}
+    - name: Objects_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 50}
+        - {x: -5, y: 50}
+        - {x: -8, y: 47}
+        - {x: -14, y: 16}
+        - {x: -14, y: 4}
+        - {x: -4, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 49}
+    - name: Objects_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -9, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 37}
+        - {x: 7, y: 51}
+    - name: Objects_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 51}
+        - {x: -7, y: 51}
+        - {x: -9, y: 48}
+        - {x: -11, y: 35}
+        - {x: -11, y: 14}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 6}
+        - {x: 12, y: 43}
+        - {x: 10, y: 49}
+    - name: Objects_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 50}
+        - {x: -14, y: 50}
+        - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 15, y: 14}
+        - {x: 15, y: 29}
+        - {x: 8, y: 47}
+    - name: Objects_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 47}
+        - {x: 6, y: 50}
+        - {x: -11, y: 50}
+        - {x: -11, y: 7}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 5}
+        - {x: 14, y: 12}
+        - {x: 14, y: 23}
+    - name: Objects_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 51}
+        - {x: -3, y: 51}
+        - {x: -9, y: 49}
+        - {x: -9, y: 12}
+        - {x: -3, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 6}
+        - {x: 12, y: 39}
+        - {x: 8, y: 48}
+    - name: Objects_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 51}
+        - {x: -3, y: 51}
+        - {x: -8, y: 50}
+        - {x: -8, y: 11}
+        - {x: 2, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 28}
+        - {x: 8, y: 48}
+    - name: Objects_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 0}
+        - {x: 14, y: 3}
+        - {x: 14, y: 13}
+        - {x: 9, y: 48}
+        - {x: 2, y: 50}
+        - {x: -6, y: 50}
+        - {x: -10, y: 47}
+        - {x: -13, y: 10}
+        - {x: -13, y: 3}
+        - {x: -9, y: 0}
+        - {x: 0, y: 0}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 4, y: 0}
+    - name: Objects_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 50}
+        - {x: -6, y: 50}
+        - {x: -9, y: 48}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 23}
+        - {x: 9, y: 48}
+    - name: Objects_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 51}
+        - {x: -3, y: 51}
+        - {x: -8, y: 50}
+        - {x: -8, y: 5}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 14, y: 4}
+        - {x: 14, y: 22}
+        - {x: 8, y: 48}
+    - name: Objects_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -10, y: 15}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 1}
+        - {x: 11, y: 47}
+        - {x: 7, y: 51}
+    - name: Objects_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 25}
+        - {x: 10, y: 48}
+        - {x: 7, y: 50}
+        - {x: -9, y: 50}
+        - {x: -14, y: 40}
+        - {x: -14, y: 12}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 3}
+        - {x: 11, y: 6}
+        - {x: 14, y: 15}
+    - name: Objects_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -11, y: 0}
+        - {x: 9, y: 0}
+        - {x: 13, y: 8}
+        - {x: 13, y: 35}
+        - {x: 6, y: 50}
+    - name: Objects_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 51}
+        - {x: -9, y: 51}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 35}
+        - {x: 10, y: 49}
+    - name: Objects_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -3, y: 51}
+        - {x: -8, y: 49}
+        - {x: -8, y: 12}
+        - {x: -3, y: 5}
+        - {x: 1, y: 0}
+        - {x: 13, y: 0}
+        - {x: 14, y: 1}
+        - {x: 14, y: 18}
+        - {x: 9, y: 48}
+    - name: Objects_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 50}
+        - {x: -10, y: 47}
+        - {x: -11, y: 23}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 30}
+        - {x: 8, y: 50}
+    - name: Objects_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 50}
+        - {x: -9, y: 50}
+        - {x: -11, y: 49}
+        - {x: -11, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 20}
+        - {x: 10, y: 48}
+    - name: Objects_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: 6}
+        - {x: -8, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 47}
+        - {x: 5, y: 51}
+        - {x: -2, y: 51}
+        - {x: -9, y: 49}
+    - name: Objects_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -2, y: 51}
+        - {x: -9, y: 49}
+        - {x: -11, y: 43}
+        - {x: -11, y: 0}
+        - {x: 6, y: 0}
+        - {x: 10, y: 7}
+        - {x: 10, y: 43}
+        - {x: 9, y: 48}
+    - name: Objects_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 5}
+        - {x: 14, y: 40}
+        - {x: 9, y: 47}
+        - {x: 3, y: 50}
+        - {x: -8, y: 50}
+        - {x: -14, y: 45}
+    - name: Objects_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 50}
+        - {x: -10, y: 50}
+        - {x: -13, y: 48}
+        - {x: -13, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 3}
+        - {x: 11, y: 40}
+        - {x: 9, y: 47}
+    - name: Objects_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 47}
+        - {x: 3, y: 51}
+        - {x: -5, y: 51}
+        - {x: -11, y: 41}
+        - {x: -11, y: 0}
+        - {x: 3, y: 0}
+        - {x: 7, y: 2}
+        - {x: 9, y: 17}
+        - {x: 9, y: 36}
+    - name: Objects_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -2, y: 51}
+        - {x: -9, y: 49}
+        - {x: -14, y: 19}
+        - {x: -14, y: 3}
+        - {x: -13, y: 0}
+        - {x: 0, y: 0}
+        - {x: 8, y: 10}
+        - {x: 8, y: 47}
+    - name: Objects_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 50}
+        - {x: -8, y: 50}
+        - {x: -15, y: 29}
+        - {x: -15, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 36}
+        - {x: 10, y: 48}
+    - name: Objects_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 1}
+        - {x: 11, y: 31}
+        - {x: 10, y: 48}
+        - {x: 4, y: 50}
+        - {x: -6, y: 50}
+        - {x: -8, y: 48}
+        - {x: -15, y: 10}
+        - {x: -15, y: 4}
+        - {x: -12, y: 0}
+        - {x: 9, y: 0}
+    - name: Objects_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 51}
+        - {x: -9, y: 50}
+        - {x: -9, y: 1}
+        - {x: -8, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 2}
+        - {x: 12, y: 38}
+        - {x: 7, y: 51}
+    - name: Objects_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 34}
+        - {x: 8, y: 47}
+        - {x: 6, y: 51}
+        - {x: -2, y: 51}
+        - {x: -9, y: 49}
+        - {x: -12, y: 41}
+        - {x: -12, y: 6}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 2}
+    - name: Objects_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -2, y: 51}
+        - {x: -9, y: 49}
+        - {x: -10, y: 43}
+        - {x: -10, y: 8}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 39}
+        - {x: 8, y: 47}
+    - name: Objects_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 9}
+        - {x: 10, y: 42}
+        - {x: 6, y: 51}
+    - name: Objects_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 8}
+        - {x: -3, y: 9}
+        - {x: -6, y: 9}
+        - {x: -3, y: 11}
+        - {x: -3, y: 15}
+        - {x: -8, y: 20}
+        - {x: -13, y: 20}
+        - {x: -19, y: 14}
+        - {x: -19, y: -21}
+        - {x: -12, y: -24}
+        - {x: -3, y: -24}
+        - {x: 3, y: -16}
+        - {x: 3, y: 4}
+    - name: Objects_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -19, y: 14}
+        - {x: -19, y: -19}
+        - {x: -12, y: -24}
+        - {x: -4, y: -24}
+        - {x: 3, y: -20}
+        - {x: 3, y: 6}
+        - {x: -5, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

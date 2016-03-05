@@ -7,6 +7,10 @@ namespace Manager
 	{
 		private static GameManager instance;
 
+		public float tile_width;
+		public float tile_height;
+		public float grid_scale;
+
 		private void Awake()
 		{
 			instance = this;

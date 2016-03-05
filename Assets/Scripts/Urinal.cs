@@ -3,9 +3,12 @@ using System.Collections;
 
 public class Urinal : MonoBehaviour
 {
-	private bool is_occupied;
+	public Direction object_direction;
 
+	private bool is_occupied;
 	private GameObject go_meon;
+
+	public int index;
 
 	private void Start()
 	{

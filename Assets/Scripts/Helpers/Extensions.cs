@@ -188,9 +188,9 @@ public static class Extensions
 		return go.GetComponent<Sink>();
 	}
 
-	public static Meon GetMeon(this GameObject go)
+	public static Meon.Info GetMeon(this GameObject go)
 	{
-		return go.GetComponent<Meon>();
+		return go.GetComponent<Meon.Info>();
 	}
 
 	#endregion

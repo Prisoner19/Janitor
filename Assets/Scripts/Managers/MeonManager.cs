@@ -11,7 +11,7 @@ namespace Manager
 		public GameObject pfb_meon;
 		public int meon_max;
 		
-		private List<Meon> list_meones;
+		private List<Meon.Info> list_meones;
 		private bool is_ready;
 
 		private void Awake()
@@ -22,7 +22,7 @@ namespace Manager
 		public void Initialize () 
 		{
 			is_ready = true;
-			list_meones = new List<Meon>();
+			list_meones = new List<Meon.Info>();
 		}
 		
 		private void Update () 

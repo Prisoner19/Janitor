@@ -80,6 +80,7 @@ namespace Manager
 						
 						if(success == true)
 						{
+							Debug.Log("hola");
 							go_meon_clicked.GetMeon().Try_To_Assign_Urinal(go_urinal);
 							go_meon_clicked = null;
 						}
